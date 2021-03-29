@@ -4,7 +4,8 @@ from lxml import etree
 import re
 import math
 
-k = 10
+# According to Yarowski's paper, for semantic based ambiguity k between 20-50 is optimal
+k = 30
 args = sys.argv
 
 if len(args) < 4:
