@@ -1,3 +1,4 @@
+# Baseline accuracy (assign 'phone' to everything): 0.5714285714285714
 import sys
 import xml.etree.ElementTree as ET
 from lxml import etree
