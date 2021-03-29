@@ -1,0 +1,2999 @@
+Collocation: line growth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 15} 
+
+ Collocation: In, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: 4.5% access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line growth in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: access line growth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line as, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: the line, Log-Likelihood Ratio: 0.6143438864702712, Predicts Sense: phone, Frequencies: {'product': 7, 'phone': 45} 
+
+ Collocation: It, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: lately, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: establish the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line as the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the line as, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line was, Log-Likelihood Ratio: 0.762123804949493, Predicts Sense: phone, Frequencies: {'product': 1, 'phone': 12} 
+
+ Collocation: struggling line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: December,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the struggling line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line was scrapped., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: struggling line was, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line to, Log-Likelihood Ratio: 0.4114424790756846, Predicts Sense: phone, Frequencies: {'phone': 13, 'product': 4} 
+
+ Collocation: new line, Log-Likelihood Ratio: 0.6989700043360187, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 9} 
+
+ Collocation: features, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: working., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 16,000 new line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to current, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: new line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and, Log-Likelihood Ratio: 0.2173129957834749, Predicts Sense: phone, Frequencies: {'product': 6, 'phone': 11} 
+
+ Collocation: computer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 6} 
+
+ Collocation: unveiled, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: mid-range computer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line and its, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: computer line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ., Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 31, 'phone': 31} 
+
+ Collocation: previous line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: for, Log-Likelihood Ratio: 0.3853508813640171, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 1} 
+
+ Collocation: the previous line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: previous line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line at, Log-Likelihood Ratio: 0.14612803567823798, Predicts Sense: phone, Frequencies: {'product': 2, 'phone': 3} 
+
+ Collocation: three line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: said, Log-Likelihood Ratio: 0.3853508813640171, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 1} 
+
+ Collocation: president, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: the three line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line at more, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: three line at, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ,, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 28, 'phone': 28} 
+
+ Collocation: skin-care line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: products, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: Cyanamid, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Prairie skin-care line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , is, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: skin-care line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Atlas line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the, Log-Likelihood Ratio: 0.34625753560135814, Predicts Sense: product, Frequencies: {'product': 16, 'phone': 6} 
+
+ Collocation: certain Atlas line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line and properties,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Atlas line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: videotape, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: on the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 21} 
+
+ Collocation: line to order, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line could, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: furniture line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Merrill, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: will, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 4} 
+
+ Collocation: The furniture line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line could fetch, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: furniture line could, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line have, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: gab line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: millions, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the gab line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line have been, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: gab line have, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line that, Log-Likelihood Ratio: 0.3245110915135041, Predicts Sense: phone, Frequencies: {'phone': 5, 'product': 2} 
+
+ Collocation: tip line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: "inside", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone tip line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line that has, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: tip line that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Defense, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: thousand access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: access line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: line busy, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: to, Log-Likelihood Ratio: 0.16914239910035336, Predicts Sense: phone, Frequencies: {'phone': 8, 'product': 5} 
+
+ Collocation: keep the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line busy for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line busy, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line increased, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 32} 
+
+ Collocation: year, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: in, Log-Likelihood Ratio: 0.10389613386872244, Predicts Sense: product, Frequencies: {'phone': 3, 'product': 4} 
+
+ Collocation: residential telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line increased 2.4%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line increased, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: microprocessor line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: year,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the microprocessor line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: microprocessor line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: 300, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: network, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: long-distance telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line that link, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: non-food line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: The, Log-Likelihood Ratio: 0.5956258813225525, Predicts Sense: product, Frequencies: {'product': 6, 'phone': 1} 
+
+ Collocation: its non-food line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: non-food line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: rail-intermodal line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: chassis,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: compared, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: The rail-intermodal line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , which, Log-Likelihood Ratio: 0.3853508813640171, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 1} 
+
+ Collocation: rail-intermodal line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: dedicated line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: tape, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: or dedicated line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: dedicated line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line ,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 9} 
+
+ Collocation: models., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: between car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ," Mr., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: car line ,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of, Log-Likelihood Ratio: 0.9642103613324152, Predicts Sense: product, Frequencies: {'product': 56, 'phone': 1} 
+
+ Collocation: complete line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: of, Log-Likelihood Ratio: 0.11495451570169907, Predicts Sense: product, Frequencies: {'product': 11, 'phone': 8} 
+
+ Collocation: more complete line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of mammography, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: complete line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: he, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: awful, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , making, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: phone, Frequencies: {'phone': 2, 'product': 1} 
+
+ Collocation: the line ,, Log-Likelihood Ratio: 0.7439371498525419, Predicts Sense: phone, Frequencies: {'phone': 11, 'product': 1} 
+
+ Collocation: subsidiary,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: private telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: line and spread, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 5} 
+
+ Collocation: line may, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: luxury-car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: --, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: skepticism, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: new luxury-car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line may not, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: luxury-car line may, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: , the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: line was dead, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 6} 
+
+ Collocation: the line was, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: outside line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: his, Log-Likelihood Ratio: 0.38535088136401713, Predicts Sense: phone, Frequencies: {'phone': 3, 'product': 1} 
+
+ Collocation: phone, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: an outside line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line , and, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 4, 'product': 4} 
+
+ Collocation: outside line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line in, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: phone, Frequencies: {'product': 4, 'phone': 8} 
+
+ Collocation: Smith line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: enlarging, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: revitalized, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Jaclyn Smith line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line in 1985,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Smith line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: which, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: system., Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: telephone access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: access line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: ring, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: up the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , but, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: phone, Frequencies: {'phone': 2, 'product': 1} 
+
+ Collocation: line increase, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: 371,000, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: chief, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: "largest telephone- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line increase ever,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone- line increase, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: food line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: frozen food line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: food line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: over the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: the line ., Log-Likelihood Ratio: 0.7439371498525419, Predicts Sense: phone, Frequencies: {'phone': 11, 'product': 1} 
+
+ Collocation: their line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: International, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: crucial, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: expand their line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ," said, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: their line ,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line used, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: local, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line used in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line used, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 24 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: new, Log-Likelihood Ratio: 0.4771212547196623, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 4} 
+
+ Collocation: as 24 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and 48, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 24 line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Corp.'s line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: bottling, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: include, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Abex Corp.'s line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of aircraft, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Corp.'s line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: similar line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: taking, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a similar line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line and I, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: similar line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line made, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: R1 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Tire, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and R1 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line made by, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: R1 line made, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a line, Log-Likelihood Ratio: 0.8450980400142567, Predicts Sense: product, Frequencies: {'product': 19, 'phone': 1} 
+
+ Collocation: "aristocratic", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: launch a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line of deluxe, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 17} 
+
+ Collocation: know, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Once, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: of the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 10} 
+
+ Collocation: line was that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line recently, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: bisexual line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: merits, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: up, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: Megaquest's bisexual line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line recently got, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: bisexual line recently, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: York telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line of Millionaire's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: complaint line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: readers., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: one, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: toll-free complaint line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: complaint line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line through, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: truck line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: $1,300, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and truck line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line through Dec., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: truck line through, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: IBM line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: eventually, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: new IBM line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: line . He, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: IBM line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: integrated line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: aspects, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: interview,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its integrated line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of software, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: integrated line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the new line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of computers, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: new line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 9} 
+
+ Collocation: popular line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: million, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: recover, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a popular line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of cherubic, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: popular line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: necessary telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: line showed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: diagnostics line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: product, Frequencies: {'product': 2, 'phone': 1} 
+
+ Collocation: company's diagnostics line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line showed an, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: diagnostics line showed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line for, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 2, 'product': 2} 
+
+ Collocation: toll-free line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: cost, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: a toll-free line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line for its, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: toll-free line for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: several line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: be, Log-Likelihood Ratio: 0.14612803567823798, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 2} 
+
+ Collocation: other, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: of several line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , such, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: several line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line yesterday,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: trading line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: failed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: their trading line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line yesterday, possibly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: trading line yesterday,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: company's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: apparel company's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: company's line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: ", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 7} 
+
+ Collocation: gave, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: line , first, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 9.6%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: month., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: highest-volume car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line at Chevrolet,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: car line at, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: off the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: whose line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: once, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: phone whose line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line was secure, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: whose line was, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: outlets., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: large, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: create a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of oversize, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line by, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: is, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: popular car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line by 2.5%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: car line by, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line into, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 2} 
+
+ Collocation: hours, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: and telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line into the, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: telephone line into, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: radio line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: three, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: open radio line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and swore, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: radio line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: acquired food line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line to Kraft, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: food line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: years., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: building the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line into a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the line into, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: when, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Depression., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: belt., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: new telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line , the, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: phone, Frequencies: {'phone': 2, 'product': 1} 
+
+ Collocation: telephone line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: line will, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: such line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: space, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: While such line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line will continue, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: such line will, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line while, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: unsecured line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Mr., Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: phone, Frequencies: {'phone': 2, 'product': 1} 
+
+ Collocation: (Mr., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: an unsecured line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line while Mr., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: unsecured line while, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: private line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: signals., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: dedicated private line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and public, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: private line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: older line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: can, Log-Likelihood Ratio: 0.3853508813640171, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 1} 
+
+ Collocation: from older line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: older line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Carleton line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Group, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Inc., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its Carleton line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of precision, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Carleton line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line let's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: a, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: phone, Frequencies: {'phone': 6, 'product': 3} 
+
+ Collocation: Washington, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line let's call, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line let's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line light, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: government., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: see the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line light up., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line light, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: costs, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: subscribers, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to their, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: other line, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: both, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Brands' other line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: other line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line charges., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: subscriber line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: pay subscriber line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: subscriber line charges., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: new access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: line from, Log-Likelihood Ratio: 0.3853508813640171, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 1} 
+
+ Collocation: fragrance line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Revlon, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Montana fragrance line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line from Monteil,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: fragrance line from, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line wouldn't, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PC line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: so, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: IBM PC line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line wouldn't still, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PC line wouldn't, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: hadn't, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: four telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and one, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: The line, Log-Likelihood Ratio: 0.6368220975871742, Predicts Sense: phone, Frequencies: {'phone': 7, 'product': 1} 
+
+ Collocation: Don't, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: " The line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: The line was, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 6} 
+
+ Collocation: business, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: over telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line , over, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line were, Log-Likelihood Ratio: 0.3245110915135041, Predicts Sense: phone, Frequencies: {'phone': 5, 'product': 2} 
+
+ Collocation: $2.22, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line were added, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: access line were, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: known, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: out a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of clothing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: dead line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Help, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: a dead line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: dead line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: aerospace line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: shed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its aerospace line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: aerospace line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ranging, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: in line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: thought,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: sellers in line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ranging from, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: in line ranging, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line is, Log-Likelihood Ratio: 0.5440680443502756, Predicts Sense: product, Frequencies: {'product': 5, 'phone': 1} 
+
+ Collocation: GM-10 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: product, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: The GM-10 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line is aimed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: GM-10 line is, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: apparel line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: had, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the apparel line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: apparel line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: those line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: refining, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: that those line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line were hurt, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: those line were, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: billion line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: next, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: $5 billion line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of mid-sized, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: billion line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: on, Log-Likelihood Ratio: 0.3853508813640171, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 3} 
+
+ Collocation: reagents, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: "picks, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: produces a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of more, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line with, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: cereal line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: almost, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: Nabisco's cereal line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line with its, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: cereal line with, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: IBM's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: its new line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line of personal, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 4} 
+
+ Collocation: Santa, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , ", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: by, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: best, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the company's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of PDP, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: company's line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Secret, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: just, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of Limited, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: "gab" line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: language, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: much, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: provide: "gab" line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line that dozens, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: "gab" line that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: tried a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of frozen-cheese, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: perfume line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: new perfume line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , "Elizabeth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: perfume line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: earthquake. line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: applications, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: number, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: the earthquake. line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line will be, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: earthquake. line will, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line called, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: soap-opera, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 900 telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line called "Soap, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line called, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Jeep line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: truck, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the Jeep line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Jeep line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line this, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 1988-model line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: financing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: dealer, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: its 1988-model line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line this fall,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 1988-model line this, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: A line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: called, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: telemarketing's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: BRIEFS: A line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of shoes, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: A line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: an, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: deposit, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: toll-free telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line and conduct, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: current car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: car line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: torpedo line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: would, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: submarine-seeking torpedo line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: torpedo line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: lastest line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: April, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: aggressive, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: IBM's lastest line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: lastest line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: marketing line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: cost-control, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and marketing line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line and involving, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: marketing line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line grew, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: increased, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: New telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line grew 2.5%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line grew, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: broader line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: much broader line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: broader line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: latest line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: source's latest line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: latest line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ?, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the other line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line ? ", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: other line ?, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: customer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: New, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: New customer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line grew 3.5%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: customer line grew, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Its, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 500,000 access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: diaper line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: break, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: He, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: adult diaper line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line in the, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: product, Frequencies: {'product': 2, 'phone': 1} 
+
+ Collocation: diaper line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line products", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: "older line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: anti-inflammatory, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: mostly "older line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line products" sold, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: "older line products", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: product line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 4} 
+
+ Collocation: inclusion, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: most product line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , particularly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: product line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: These line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Marsh-Florida. These line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: These line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Prix line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: year., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Grand Prix line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line is capable, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Prix line is, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PS/2 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 6} 
+
+ Collocation: Macintosh,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Corp.'s PS/2 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of computers., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PS/2 line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: his line, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: product, Frequencies: {'product': 2, 'phone': 1} 
+
+ Collocation: from his line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of plush, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: his line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line under, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: full line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: first, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its full line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line under its, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: full line under, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line just, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: many, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: clogged the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line just to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line just, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line are, Log-Likelihood Ratio: 0.3853508813640171, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 1} 
+
+ Collocation: Olivetti's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: IBM's PS/2 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line are expected, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PS/2 line are, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: urging, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: People, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: dozen telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line at the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: telephone line at, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: your line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: she, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: on your line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: your line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: direct trading line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: trading line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: Cougar line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: all, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and Cougar line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Cougar line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: some, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , no, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line charges, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: long-distance, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: in subscriber line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line charges and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: subscriber line charges, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: improvement, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: because, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line that it, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PS/2 line that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: cracker line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: grocery, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: strong, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and cracker line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line and in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: cracker line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: far, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: dropping the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: was, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: residents, whose line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line were allegedly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: whose line were, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line once, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: himself., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: says, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Calif., gab line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line once talked, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: gab line once, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: I, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , dialed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: become, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 15,700 access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line in a, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: access line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: line proprietors,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: gab- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: ostensibly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: other gab- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line proprietors, Megaquest, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: gab- line proprietors,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: dreamboat line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: neck.", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Hollywood's dreamboat line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: dreamboat line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line went, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: That, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: . The line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 5} 
+
+ Collocation: line went dead, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: The line went, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: coupons, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: if, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and leaves, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: secretary, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line open, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: keep a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line open for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: a line open, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Kids line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: recent, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: Patch Kids line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line could draw, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Kids line could, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: equipment line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Rust, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: excavation equipment line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line are well, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: equipment line are, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: tire line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: fourth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: American tire line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: tire line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: also, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: a new line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 6} 
+
+ Collocation: line of high-end, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: this line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Keep this line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line open !, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: this line open, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: barked, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: lost the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line from the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line from, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: contact, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line in Britain, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: $1.69 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: to $1.69 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of frozen, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: $1.69 line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: open line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: an open line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to his, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: open line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line but, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: midrange product line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line but declined, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: product line but, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: menswear line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: complete menswear line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: menswear line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line had, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: products line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: designed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: eye-care products line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line had sales, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: products line had, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: terminals, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of minicomputers, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: jewelry line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: accounts, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: of jewelry line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line from Crystal, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: jewelry line from, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: shoe line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: stores, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: England, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: athletic shoe line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line to a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: shoe line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Microsoft, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line between, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line between them, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line between, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line or, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: requests, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: after, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: clogged telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line or that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line or, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: million line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Spain's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: equivalent, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 10 million line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line in service,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: million line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: camera line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: seven, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: applying, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 600 camera line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: camera line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line if, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: that line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: on that line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line if he, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: that line if, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line --, Log-Likelihood Ratio: 0.38535088136401713, Predicts Sense: phone, Frequencies: {'phone': 3, 'product': 1} 
+
+ Collocation: systems, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: dedicated telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line -- its, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line --, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+
+ Collocation: line where, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: women's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the women's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line where fashionability, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: women's line where, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: jumped, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: said access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line increased 3.7%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: access line increased, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: them, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: "Earthbeat's", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: of telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to record, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: NCR, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 32 computer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , built, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: computer line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: EC., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: up-market, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a full line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of auto, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: full line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: BellSouth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: romance line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: and romance line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: romance line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 570,000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: or, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: customers,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: than 570,000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line , mainly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: 570,000 line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: Holdings, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: produce a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of men's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: mostly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: installed trading line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to about, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Sun's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Sun's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: any, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: of Sun's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Sun's line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: said., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line of mid-size, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: office, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: Edmonton, the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line were jammed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line were, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Digital, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line growth by, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line growth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: all line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: but all line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line were out, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: all line were, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: party line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: who, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: toll-call party line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: party line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line pacing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: software line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: accounts,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Choice software line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line pacing the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: software line pacing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: month, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: calls, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: some private line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line . The, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: private line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line rose, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Macintosh line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: industry., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Inc.'s Macintosh line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line rose 130%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Macintosh line rose, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 3.4%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Mirage car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Guerin, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: reposed., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line with the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line with, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: crossed line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: system, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: to crossed line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: crossed line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Amiga line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: net, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its Amiga line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of computers,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Amiga line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line has, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: Spectrum line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: The Spectrum line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line has been, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: Spectrum line has, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: direct line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: Picture, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: by direct line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to maybe, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: direct line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 4} 
+
+ Collocation: GM's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Regal, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: triumphantly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: time, GM's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of older,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: GM's line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line they, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: using line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: their, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: for using line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line they had, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: using line they, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: ended, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: customer access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line grew by, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: access line grew, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: nearly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: II computer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line is still, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: computer line is, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: as, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its computer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , moved, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 4.6%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: new customer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: customer line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line in, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: daily, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line called Healthy, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: similar line called, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line because, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: fought, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: line because children, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line because, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line effect, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: party- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: lines, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: The party- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line effect could, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: party- line effect, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: old line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: its old line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: old line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: for the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , he, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: only, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: phone, Frequencies: {'phone': 2, 'product': 1} 
+
+ Collocation: company, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: line -- voices, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: do,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: another telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line !, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: important line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: most important line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: important line !, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Ziari line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: than, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Inc.'s Ziari line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of sunglasses., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Ziari line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line adapters, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: and line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: demultiplexing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: , and line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line adapters ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: and line adapters, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 50,000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: only 50,000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 50,000 line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: may, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line last, Log-Likelihood Ratio: 0.24778448371075604, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 2} 
+
+ Collocation: double., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephones, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: running gab line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line last year, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: gab line last, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Trucks, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: manufacture a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of trucks, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Rowe, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: change., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , says, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: A, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: market. A line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of "Captain, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: information line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: Who's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: away, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: The information line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: information line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: from, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: other marketing line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , said, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: marketing line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: specialized line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: beds, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: combined, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a specialized line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of beds, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: specialized line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 3} 
+
+ Collocation: broaden its line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line by offering, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its line by, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Lexus line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: worse., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: luxury Lexus line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Lexus line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: upscale car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line through a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: car line through, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: location., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: have, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: through telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: image, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: former, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of women's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line 2, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: markets, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: analysts, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: because its line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line 2 machines, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its line 2, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: for direct line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: current line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: Hospitality, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its current line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line of midpriced, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: current line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: drink line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: soft drink line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: drink line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: calling, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: of access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line in service., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: run, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: at line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: it, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: just at line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line that supplement, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: at line that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: office-equipment line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its office-equipment line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: office-equipment line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and, Log-Likelihood Ratio: 0.14612803567823798, Predicts Sense: product, Frequencies: {'product': 3, 'phone': 2} 
+
+ Collocation: the old line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line -- that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: old line --, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Corsica line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Chevrolet Corsica line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Corsica line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: credit line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: March, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: The credit line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: credit line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Corp., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of mainframes, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: building-materials line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the building-materials line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: building-materials line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: replied, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: loan, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: including telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: voice, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: with line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: regulated, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: business with line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line they deem, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: with line they, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: and the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line went, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: residential, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Arkansas,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: poorest telephone- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line growth since, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone- line growth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: specialty-food line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: smaller specialty-food line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: specialty-food line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: currency, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: a direct line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: Co.'s, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: IBM PS/2 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line so, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'phone': 1, 'product': 1} 
+
+ Collocation: line so I, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line so, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: read the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: write-off, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its skin-care line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line last month, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: skin-care line last, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ;, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Transformers line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Pound, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Hasbro's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and Transformers line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ; Tonka, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Transformers line ;, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: won., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of Chevrolet, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: exchange line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: foreign, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: foreign exchange line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: exchange line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line be, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: booth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Would his line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line be tapped, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: his line be, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Clarion line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 17.7%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: billion, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and Clarion line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line have a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Clarion line have, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: machinery line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Kloeckner, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: agricultural machinery line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , fell, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: machinery line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: receiver, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , sir, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: minutes, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , like, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: all its line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line .", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: some line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: for some line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: some line .", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line it, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: under the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line it had, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the line it, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Investigation,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: "secure" telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line that can't, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: market, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: switchboards,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: more telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , according, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Denton line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Dr. Denton line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of sweaters, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Denton line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: appears, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: have a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a line into, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Hospital line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: bookie, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the Hospital line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line was still, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: Hospital line was, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: military line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: lucrative military line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of computer, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: military line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: of his line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line to survive, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: his line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: George line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: by George line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line is just, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: George line is, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: markets a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of Japanese-made, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: software, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line during, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: And, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line during the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line during, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: long-awaited line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: industry, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its long-awaited line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of laptop, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: long-awaited line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: chemicals line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Union, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: basic chemicals line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line from Imperial, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: chemicals line from, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: nail-polish line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: contemporary", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and nail-polish line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: nail-polish line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line was busy, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 3.2%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: long, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: million access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line in service, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: its microprocessor line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: exclusive line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Stewart's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: mart, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: an exclusive line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of stylish, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: exclusive line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 442,000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: supply, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Ericsson, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: about 442,000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line in China,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 442,000 line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: air, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: car line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: price, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Va., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: products, a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of plastic, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: clogged line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: chairman, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: says clogged line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line recently caused, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: clogged line recently, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: crossed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: made, Log-Likelihood Ratio: 0.0, Predicts Sense: product, Frequencies: {'product': 1, 'phone': 1} 
+
+ Collocation: main computer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: computer line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Lanterns line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: way., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: already, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Oh Lanterns line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of grotesque,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Lanterns line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: acquired line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: agreed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the acquired line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: acquired line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line planned, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: soaps, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: yesterday,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: $29.375. The line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line planned for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: The line planned, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PW4000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: $20, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Pratt's PW4000 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , have, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PW4000 line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: share, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its PS/2 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line last April,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PS/2 line last, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line appealing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: KIDS, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: consumer information line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line appealing for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: information line appealing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: conglomerate., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: shedding some line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line and perhaps, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: some line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: suddenly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: private- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: reduce, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: many private- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and Centrex, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: private- line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line is in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line is, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line there,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: consumer-products line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: other consumer-products line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line there, including, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: consumer-products line there,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line for you, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line won't, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: possibly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: personal computer line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line won't help, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: computer line won't, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: arteries,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: medical, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: introduced a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 4} 
+
+ Collocation: line of coronary, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: sewing line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: excellent, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Though, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its sewing line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , they, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: sewing line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 3,600 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Democratic, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: about 3,600 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 3,600 line at, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: health-club line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: gambling, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the health-club line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , Bally, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: health-club line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: extending line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: &amp;, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: that extending line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to investment, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: extending line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Business line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: over, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: time. Business line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Business line increased, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: through, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: asynchronous line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: used, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 2} 
+
+ Collocation: or asynchronous line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: asynchronous line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Coleco's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: lower, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: sales,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: of Coleco's line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Coleco's line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: bit line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: discussions, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: drilling bit line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line is "substantially, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: bit line is, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: sorts, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Zytel line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its Zytel line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of nylon, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Zytel line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: another line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: on another line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: another line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: advantage, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: their telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line -- checking, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: X-rated line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: new X-rated line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: X-rated line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: advertised line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: store, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: nationally advertised line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: advertised line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: with a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of jeans, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line like, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: one-on-one line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Houston, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 6., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: a one-on-one line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line like the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: one-on-one line like, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: filter line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: initial filter line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line for three, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: filter line for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 1,800 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: about 1,800 line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line in central, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 1,800 line in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: instruments, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line for the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a line for, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: operations., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: second-quarter, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , while, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: brings, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: three telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: announce, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: company's car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: VAX line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: 1985,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: guard, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its VAX line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: VAX line has, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: frozen, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: for a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of Green, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 20%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Digital's VAX line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , Cray's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: VAX line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: such, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 2} 
+
+ Collocation: line as a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: PS/2 line as, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: emergency line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: heard, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 911 emergency line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line , played, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: emergency line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: priced line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: are, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: reasonably priced line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of stock.", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: priced line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line included, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: operating, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Bull,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: new product line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line included the, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: product line included, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: huge line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: add, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: already huge line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of General, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: huge line of, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: announced, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: placed, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Marx line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: &amp; Marx line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line to 15., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Marx line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: us,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: with the line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line because Noxell, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the line because, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: them's, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line that might, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line that, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: power,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: existing product line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , will, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: most, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: consumer products line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line so it, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: products line so, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line charge, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: subscriber- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the subscriber- line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line charge by, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: subscriber- line charge, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: past, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of Halloween, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: optometric line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: substantial, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: The optometric line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line were expected, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: optometric line were, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: ground-coffee line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: For, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: its ground-coffee line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line through costly, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: ground-coffee line through, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: minute, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line at once, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the line at, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: Plate.", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: shoe,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: and a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Rhonda, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line of jockey, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: sex line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: in sex line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line and gab, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: sex line and, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: realizing, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line was John, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: {product} line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: image., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: the {product} line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line ," she, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: {product} line ,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Fox line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: entry-level Fox line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Fox line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Previously,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: markets,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: chat line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: What, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: a chat line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line . --, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: chat line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: ordinary line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: frames, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: uses, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: over ordinary line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: ordinary line ., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line jumped, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: total, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: economic, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: business telephone line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line jumped 6.8%, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: telephone line jumped, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line . A, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: communications line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: could, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: renting communications line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line to tie, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: communications line to, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: 3X line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: sturdy 3X line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , with, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: 3X line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: dishes., Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Kraft, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: testing a line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: say, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the tip line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line are Wall, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: tip line are, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: future line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: high-multiple, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: some future line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line , Hormel, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: future line ,, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line noise, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: " line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: sending, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: no " line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line noise ", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: " line noise, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line anymore,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: a car line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line anymore," laments, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: car line anymore,", Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Lancome line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: beauty-products, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Inc.'s Lancome line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line are likely, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: Lancome line are, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: product, Frequencies: {'product': 1} 
+
+ Collocation: line a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: the party line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: line a new, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ Collocation: party line a, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+
+ 
