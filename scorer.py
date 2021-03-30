@@ -1,3 +1,26 @@
+# Word Sense Disambiguation Scorer
+# By Yousef Haggy, Intro to NLP, Spring 2021
+
+# Takes in predicted word sense for ambigious words as well as a "key" text and measures accuracy
+# Also provides a confusion matrix of predicted vs actual senses
+
+# Algorithm:
+# Read predicted senses and key senses
+# For each instance
+#    Store actual sense vs predicted sense in a confusion matrix dictionary
+#    Update accuracy
+# Output confusion matrix and accuracy
+
+# Example Input/Output
+# python scorer.py my-line-answers.txt line-key.txt 
+# First arg: Sense labelled test text file name (.txt)
+# Second arg: Sense labelled key text file name (.txt)
+
+# Output:
+# Accuracy: 0.8888888888888888
+#       phone         product 
+# phone    62       10      
+# product  4        50  
 import sys
 import re
 

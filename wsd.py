@@ -42,7 +42,7 @@
 # Second arg: Unlabeled test data file name (.txt)
 # Third arg: File name to output model too
 
-# Output (Predicted senses for all instances in training data):
+#  STD Output (Predicted senses for all instances in training data):
 # <answer instance="line-n.w8_059:8174:" senseid="phone"/>
 # <answer instance="line-n.w7_098:12684:" senseid="phone"/>
 # <answer instance="line-n.w8_106:13309:" senseid="phone"/>
@@ -55,7 +55,15 @@
 # <answer instance="line-n.w8_119:2964:" senseid="product"/>
 # <answer instance="line-n.w7_040:13652:" senseid="phone"/>
 # <answer instance="line-n.w7_122:2194:" senseid="phone"/>
-# ....
+# ...
+
+#  my-model.txt
+#  Collocation: line growth, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 3} 
+#  Collocation: access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 15} 
+#  Collocation: basic, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+#  Collocation: 4.5% access line, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+#  Collocation: line growth in, Log-Likelihood Ratio: 1.041392685158225, Predicts Sense: phone, Frequencies: {'phone': 1} 
+# ...
 import sys
 import xml.etree.ElementTree as ET
 from lxml import etree
