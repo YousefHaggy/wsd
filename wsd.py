@@ -1,4 +1,61 @@
-# Baseline accuracy (assign 'phone' to everything): 0.5714285714285714
+# Word Sense Disambiguation using Decision Lists Model
+# By Yousef Haggy
+# Intro to NLP, Spring 2021
+
+# Overview: Given a training text that identifies the word 'line' and its sense in a multiple contexts 
+# as well as instances of the word 'line' without the sense labeled called 'test set', output senses for each instance
+# of 'line' in our test set
+
+# Detailed overview/algorithm:
+# 1. Take in our training set and parse the XML
+# 2. For each instance of 'line'
+#    a. For each of the following collocations, update the count of the labelled sense occuring given the collocation:
+        # Word to the right of line, 
+        # word to the left, 
+        # word at +/- k boundary,
+        #  words at +1 and +2 offset, 
+        # word at -1 and -2 offset, 
+        # word at -1 +1 at offset
+# 3. Compute the log likelihood ratio for each collocation and predicted sense:
+#   a. abs(log((P(phone|collocation) + alpha)/(P(phone|collocation)+alpha)))
+# 4. Output log likliehoods/sense to specified output file
+# 5. Load unlabelled test set, parse the XML
+# 6. For each instance of the word 'line':
+#   a. generate the same collocations mentioedn in step 2a
+#   b. For each collocation, add the predicted senses and loglikelihood ratios identifeid from training set to a list
+#   c. Pick the sense with the highest loglikelihood from that list as our 'best sense', assign label, and move on
+#   d. If there are no collocations matching the collocation founds in training data, use most frequent sense as label sense
+# 7. Output all labeled instances
+
+# MFS Baseline accuracy (assign 'phone' to everything): 0.5714285714285714
+# Accuracy of this program: 0.8888888888888888
+# Confusion matrix:
+#       phone         product 
+# phone    62       10      
+# product  4        50    
+
+# As you can see, this program outperformed the most frequent sense baseline by over 30%
+
+# Example input/usage
+# python wsd.py line-train.txt line-test.txt my-model.txt 
+# First arg: Sense annotated training data file name (.txt)
+# Second arg: Unlabeled test data file name (.txt)
+# Third arg: File name to output model too
+
+# Output (Predicted senses for all instances in training data):
+# <answer instance="line-n.w8_059:8174:" senseid="phone"/>
+# <answer instance="line-n.w7_098:12684:" senseid="phone"/>
+# <answer instance="line-n.w8_106:13309:" senseid="phone"/>
+# <answer instance="line-n.w9_40:10187:" senseid="phone"/>
+# <answer instance="line-n.w9_16:217:" senseid="product"/>
+# <answer instance="line-n.w8_119:16927:" senseid="product"/>
+# <answer instance="line-n.w8_008:13756:" senseid="phone"/>
+# <answer instance="line-n.w8_041:15186:" senseid="phone"/>
+# <answer instance="line-n.art7} aphb 05601797:" senseid="phone"/>
+# <answer instance="line-n.w8_119:2964:" senseid="product"/>
+# <answer instance="line-n.w7_040:13652:" senseid="phone"/>
+# <answer instance="line-n.w7_122:2194:" senseid="phone"/>
+# ....
 import sys
 import xml.etree.ElementTree as ET
 from lxml import etree
